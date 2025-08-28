@@ -1,3 +1,7 @@
+# This script is an adaptation of the Emailwiz script, modified to work exclusively with IPv4-enabled devices. Otherwise, it is completely identical. This repository will be updated every time the main repository is updated.
+
+
+
 # Email server setup script
 
 This script installs an email server with all the features required in the
